@@ -1,0 +1,23 @@
+{
+  "apiVersion": 3,
+  "title": "SiteNarrator",
+  "description": "Insert a text-to-speech widget",
+  "name": "sitenarrator/widget",
+  "version": "1.0.0",
+  "category": "widgets",
+  "icon": "megaphone",
+  "keywords": [
+    "tts",
+    "text-to-speech",
+    "widget",
+    "read-aloud",
+    "site-narrator",
+    "audio",
+    "voice",
+    "text-to-audio",
+    "speech",
+    "speechify"
+  ],
+  "editorScript": "file:./index.js",
+  "render": "file:./render.php"
+}
